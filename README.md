@@ -12,3 +12,4 @@ When a waste container is full or needs disposal, the system should trigger the 
 The appropriate waste collector in the chain should handle the disposal based on the type and capacity of the waste container.\
 ***Validation***: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
+![UML_ChainOfResponsibility](https://github.com/user-attachments/assets/eb1a75dc-903b-42bf-827e-4e5073325181)
