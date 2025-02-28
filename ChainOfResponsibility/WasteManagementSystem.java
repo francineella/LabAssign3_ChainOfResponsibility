@@ -9,7 +9,7 @@ public class WasteManagementSystem {
         recyclableCollector.setNextCollector(hazardousCollector);
 
         WasteContainer organicBin = new WasteContainer("organic", 50, 50);
-        WasteContainer recyclableBin  = new WasteContainer("recyclable", 50, 40);
+        WasteContainer recyclableBin  = new WasteContainer("recyclable", 50, 50);
         WasteContainer hazardousBin = new WasteContainer("hazardous", 50, 35);
         WasteContainer unknownBin = new WasteContainer("electronic", 40, 40);
 
